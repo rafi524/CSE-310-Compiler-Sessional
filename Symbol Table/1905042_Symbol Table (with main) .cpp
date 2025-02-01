@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#include "1905042_ScopeTable.cpp"
+#include "1905042_Scope Table.cpp"
 
 using namespace std;
 class SymbolTable{
@@ -219,4 +219,3 @@ int split (string str, char seperator)
         }
         return currIndex;
 }
-
